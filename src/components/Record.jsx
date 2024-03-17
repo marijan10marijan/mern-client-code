@@ -228,7 +228,7 @@ export default function Record() {
         <input
           type="submit"
           value="Save Employee Record"
-          className="inline-flex items-center justify-center whitespace-nowrap text-md font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input   text-white  bg-gradient-to-r from-blue-200 to-purple-300  hover:bg-purple-400 hover:text-accent-foreground h-8 sm:h-10 rounded-md px-2 sm:px-4  cursor-pointer mt-4"
+          className="inline-flex items-center justify-center whitespace-nowrap text-md font-medium ring-offset-background transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 disabled:pointer-events-none disabled:opacity-50 border border-input   text-white  bg-gradient-to-r from-blue-200 to-purple-300  hover:bg-purple-400 hover:text-accent-foreground h-10 sm:h-12 rounded-md px-2 sm:px-4  cursor-pointer mt-4"
         />
       </form>
     </>
